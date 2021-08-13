@@ -1126,7 +1126,7 @@ export default class VideoPlayer extends Component {
           },
           {
             borderRadius: 100,
-            backgroundColor: colors.csGreen,
+            backgroundColor: 'black',
           },
         ]}>
         <Image
